@@ -10,7 +10,7 @@ I am always up for new skills and technology. My main interest lies in Web Devel
 - 🌴 My Technology Stack:
 
       . C, Java
-      . HTML, CSS, JavaScript, ReactJs
+      . HTML, CSS, JavaScript, ReactJs, MySQL
 
 <!--
 **25YojanGandha/25YojanGandha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
