@@ -1,6 +1,6 @@
 ## About Me
 I am Yojan Gandha 👋, a pre-final year student at Birla Institute of Technology, Mesra currently pursuing my bachelor's degree in Computer Science and Engineering.
-I am always up for new skills and technology. My main interest lies in Web Developnment and DSA. 
+I am always up for new skills and technology. My main interest lies in Web Development and DSA. 
 
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Web Development Projects using ReactJs or DOM. 
